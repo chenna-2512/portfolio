@@ -1,0 +1,50 @@
+*{
+    margin: 5px;
+}
+header{
+    padding: 5px;
+    background-color: yellow;
+    color: green;
+    text-decoration: underline;
+}
+#sec1{
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+.intro{
+    padding: 5px;
+}
+.h2{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+.self{
+    font-size: 25px;
+}
+img{
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    border: solid 5px black;
+}
+#sec3{
+    width: 100%
+}
+.text{
+    padding: 10px;
+}
+.button{
+    width: 50%;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+    padding: 10px;
+}
+footer{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
