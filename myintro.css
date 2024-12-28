@@ -24,6 +24,9 @@ header{
 .self{
     font-size: 25px;
 }
+#sec2{
+    padding: 5px;
+}
 img{
     width: 20%;
     height: 20%;
@@ -31,7 +34,8 @@ img{
     border: solid 5px black;
 }
 #sec3{
-    width: 100%
+    width: 100%;
+    padding: 5px;
 }
 .text{
     padding: 10px;
