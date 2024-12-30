@@ -1,0 +1,28 @@
+#ancestor{
+    background-color: lightgreen;
+    color: red;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    background-color: lightcyan;
+    color: blue;
+    padding: 5px;
+    width: 70px;
+    text-align: center;
+    margin-top: 2px;
+}
+.box3{
+    background-color: yellow;
+    color: blue;
+    padding: 5px;
+    width: 70px;
+    text-align: center;
+    margin-top: 2px;
+}
+.box1{
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+}
